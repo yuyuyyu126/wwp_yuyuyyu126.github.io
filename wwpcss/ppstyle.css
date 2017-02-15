@@ -1,7 +1,7 @@
 ﻿/* CSS Document */
 
   body {
-	background: url(../images/ladybug.jpg) no-repeat;
+	background: url(../images/ladybug.jpg) repeat;
          }
 
   h1 {font-size: 62px;
