@@ -1,0 +1,35 @@
+﻿/* CSS Document */
+
+  body {
+	background: url(../images/ladybug.jpg) no-repeat;
+         }
+
+  h1 {font-size: 62px;
+       color: red;
+       }
+  h1:hover {font-size: 120px;
+       color: green;
+       }
+
+
+
+  h2 {
+	color: rgb(120,20,67);
+       }
+  p {    background-color:yellow;
+	color: rgba( 10, 10,20,.9); line-height:2; font-family:sans-serif;
+        }
+
+ 
+  h3 { font-size:  42px;
+        color: #e67de3;
+       }
+
+  a {
+      color: green;
+      text-decoration: none;
+       }
+ 
+  a:hover {
+        text-decoration: underline;    color: rgba(10, 10, 250,1);
+         }
